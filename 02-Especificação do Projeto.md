@@ -22,7 +22,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |Motivações: | <ul><li> Acredita que pode poupar mais</li><li> Desconhece as suas despesas</li><li>
 |Hobbies:|<ul><li>Jogar basquete</li><li>Ir ao parque</li></ul>|
 
-|Gil Costa|<img src="img/DiegoCosta.jpg" width="100">|
+|Gil Costa|<img src="Gil_Costa.jpg" width="100">|
 |---|---| 
 |Idade: 46 anos|Ocupação: Médico|
 |Motivações: | <ul><li>Possui vários gastos imprevisíveis</li><li> Deseja ter um controle sobre suas finanças pessoais</li></ul>|
