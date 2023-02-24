@@ -4,29 +4,29 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-|Maria Joana de Santos|<img src="img/AnaClara.jpg" width="100">|
+|Maria Joana de Santos|<img src="Maria_Joana_da_Silva.jpg" width="100">|
 |---|---| 
-|Idade: 32 anos|Ocupação: Gestora de Recursos Humanos|
+|Idade: 32 anos|Ocupação: Chef de Cozinha|
 |Motivações: | <ul><li>Possui problemas financeiros</li><li> Não consegue economizar para uma viagem de curto prazo</li></ul>|
-|Hobbies:|<ul><li>Praticar artes marciais</li><li>Dançar Forró</li></ul>|
+|Hobbies:|<ul><li>Pescar</li><li>Ir a shows</li></ul>|
 
-|João Carlos da Silva|<img src="img/AugustoSilva.jpg" width="100">|
+|João Carlos da Silva|<img src="Joao_Carlos_da_Silva.jpg" width="100">|
 |---|---| 
-|Idade: 44 anos|Ocupação: Vendedor de Maquinário Industrial|
+|Idade: 44 anos|Ocupação: Vendedor|
 |Motivações: | <ul><li>Possui dívidas e quer identifar onde pode reduzir seus gastos</li><li> <ul><li>Está tendo gastos maiores que sua renda </li><li>|
 |Hobbies:|<ul><li>Viajar</li><li>Pescar</li></ul>|
 
-|Eduardo Navares|<img src="img/CarlosAlves.jpg" width="100">|
+|Eduardo Navares|<img src="Eduardo_Navares.jpg" width="100">|
 |---|---| 
 |Idade: 28 anos|Ocupação: Scrum Master|
 |Motivações: | <ul><li> Acredita que pode poupar mais</li><li> Desconhece as suas despesas</li><li>
-|Hobbies:|<ul><li>Jogar videogames</li><li>Praticar musculação</li></ul>|
+|Hobbies:|<ul><li>Jogar basquete</li><li>Ir ao parque</li></ul>|
 
 |Gil Costa|<img src="img/DiegoCosta.jpg" width="100">|
 |---|---| 
-|Idade: 46 anos|Ocupação: Empresário|
+|Idade: 46 anos|Ocupação: Médico|
 |Motivações: | <ul><li>Possui vários gastos imprevisíveis</li><li> Deseja ter um controle sobre suas finanças pessoais</li></ul>|
-|Hobbies:|<ul><li>Jogar futebol</li><li>Tocar violão</li></ul>|
+|Hobbies:|<ul><li>Esquiar </li><li>Tocar guitarra</li></ul>|
 
 
 ## Histórias de Usuários
