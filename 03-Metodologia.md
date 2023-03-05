@@ -40,20 +40,15 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
-*	Scrum Master: Fernando Maia Torres Alves
-*	Product Owner: Vinicius Souza
+*	Scrum Master: Marcos Guimarães Costa Rocha
+*	Product Owner: Gilvimar
 * Equipe de Desenvolvimento
-  * Cristian Balbi de Faria Junior
-  * Felipe Ferreira Moraes de Paula
-  * Fernando Maia Torres Alves
-  * Jhody Mike Possidonio Da Silva
+  * Arthur
+  * Brenno Braga
+  * Gilvimar
   * Marcos Guimarães Costa Rocha
-  * Vinicius de Souza Ponciano
-* Equipe de Desenvolvimento
-  * Cristian Balbi de Faria Junior
-  * Fernando Maia Torres Alves
-  * Marcos Guimarães Costa Rocha
-  * Vinicius de Souza Ponciano
+  * Marcos Vidal
+
 
 ### Processo
 
@@ -83,12 +78,12 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código.
   * Github
-  * Visual Studio
+  * Expo
 - Ferramentas de comunicação
   * Microsoft Teams
   * WhatsApp
 - Ferramentas de desenho de tela (_wireframing_)
-  * Marvel
+  * Drawio
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
